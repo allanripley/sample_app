@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SampleApp</title>
+  <link href="/assets/application.css?body=1" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/static_pages.css?body=1" media="all" rel="stylesheet" type="text/css" />
+  <script src="/assets/jquery.js?body=1" type="text/javascript"></script>
+<script src="/assets/jquery_ujs.js?body=1" type="text/javascript"></script>
+<script src="/assets/static_pages.js?body=1" type="text/javascript"></script>
+<script src="/assets/application.js?body=1" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="34zafe9/R5i8pc+TYDywe9UoHXSIwTgQmp8R507fxD4=" name="csrf-token" />
+</head>
+<body>
+
+<h1>Help</h1>
+<p>This is the Help page for <href http://railstutorial.com>Ruby on Rails Tutorial</p>
+
+
+</body>
+</html>
